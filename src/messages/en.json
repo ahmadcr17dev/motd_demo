@@ -1,0 +1,136 @@
+{
+  "Metadata": {
+    "title": "MOTD",
+    "description": "UAE/GCC marketplace for ready-made clothes and custom tailoring"
+  },
+  "HomePage": {
+    "title": "MOTD",
+    "description": "UAE/GCC marketplace for ready-made clothes and custom tailoring.",
+    "samplePrice": "Sample price (AED)"
+  },
+  "Navbar": {
+    "ariaLabel": "Main navigation",
+    "logoAlt": "MOTD",
+    "links": {
+      "fabrics": "Fabrics",
+      "collections": "Collections",
+      "tailors": "Tailors",
+      "stories": "Stories",
+      "howItWorks": "How It Works"
+    },
+    "actions": {
+      "search": "Search",
+      "account": "Account",
+      "wishlist": "Wishlist",
+      "cart": "Cart",
+      "openMenu": "Open menu",
+      "closeMenu": "Close menu"
+    }
+  },
+  "HeroSection": {
+    "ariaLabel": "Featured hero",
+    "imageAlt": "Embroidered fabric from UAE tailor",
+    "eyebrow": "Mukhawara of the Day",
+    "headlineLine1": "Rooted in Tradition.",
+    "headlineLine2": "Worn Today.",
+    "body": "We curate exceptional embroidered fabrics from trusted tailors across the Emirates — transforming a months-long journey into a seamless, considered experience.",
+    "ctaShopNow": "Shop Now",
+    "ctaMeetTailors": "Meet the Tailors"
+  },
+  "TrendingDesigns": {
+    "ariaLabel": "Trending Mukhawar Designs",
+    "eyebrow": "Most Popular",
+    "title": "Trending Designs",
+    "exploreLink": "Browse All 500+ Designs →"
+  },
+  "PremiumFabrics": {
+    "ariaLabel": "Premium Fabrics",
+    "eyebrow": "Ready to Explore",
+    "title": "Premium Fabrics",
+    "exploreLink": "Explore Fabrics →"
+  },
+  "ReadyToWear": {
+    "ariaLabel": "Ready to wear — fabric materials",
+    "eyebrow": "Curated Materials",
+    "title": "Ready To Wear",
+    "exploreLink": "Browse All →"
+  },
+  "TailorsSection": {
+    "ariaLabel": "Meet the tailors",
+    "eyebrow": "Master Artisans of the UAE",
+    "title": "Meet the Tailors",
+    "description": "Discover the Emirates' most celebrated master tailors, preserving centuries-old heritage through exceptional craftsmanship",
+    "viewAll": "View All Master Tailors of the UAE"
+  },
+  "MeasurementGuide": {
+    "eyebrow": "PERFECT FIT GUARANTEE",
+    "title": "Measure with Confidence",
+    "description": "Follow our simple guide to get accurate measurements for a perfectly tailored garment.",
+    "tip1": {
+      "title": "Use a Soft Measuring Tape",
+      "desc": "Keep tape snug but not tight, parallel to the floor."
+    },
+    "tip2": {
+      "title": "Stand Naturally",
+      "desc": "Feet together, arms at sides, body relaxed."
+    },
+    "tip3": {
+      "title": "Double Check Key Areas",
+      "desc": "Focus on chest, waist, hips, and inseam."
+    },
+    "btn": "Download Guide"
+  },
+  "Testimonials": {
+    "title": "The Client Experience"
+  },
+  "community": {
+    "eyebrow": "For Partners",
+    "title": "Join Our Community",
+    "description": "A curated network for master tailors and textile houses — where craftsmanship meets modern presentation and global visibility.",
+    "btn": "Apply to Join"
+  },
+  "newsletter": {
+    "eyebrow": "The Newsletter",
+    "title": "Elegance in Your Inbox",
+    "description": "Receive seasonal fabric releases, atelier stories, and curated craftsmanship highlights — delivered sparingly, only when it matters.",
+    "placeholder": "Email Address",
+    "subscribe": "Subscribe"
+  },
+  "Footer": {
+    "logoAlt": "MOTD Logo",
+    "tagline": "Bespoke Eastern luxury tailored for the modern world.",
+    "description": "A refined destination connecting discerning clients with exceptional fabrics, master tailoring houses, and elevated craftsmanship inspired by contemporary Gulf elegance.",
+    "quickLinks": "Quick Links",
+    "services": "Customer Services",
+    "business": "Business",
+    "quickLinksList": {
+      "home": "Home",
+      "exploreFabrics": "Explore Fabrics",
+      "tailors": "Tailors",
+      "customDesign": "Custom Design",
+      "aboutUs": "About Us",
+      "contact": "Contact"
+    },
+    "customerLinks": {
+      "trackOrder": "Track Order",
+      "shippingPolicy": "Shipping Policy",
+      "returnsRefunds": "Returns & Refunds",
+      "measurementGuide": "Measurement Guide",
+      "faqs": "FAQs",
+      "supportCenter": "Support Center"
+    },
+    "businessLinks": {
+      "becomeTailor": "Become a Tailor",
+      "fabricVendor": "Fabric Vendor Registration",
+      "shippingPartner": "Shipping Partner",
+      "vendorDashboard": "Vendor Dashboard",
+      "partnerships": "Partnership Opportunities"
+    },
+    "policies": {
+      "privacy": "Privacy Policy",
+      "terms": "Terms & Conditions",
+      "cookies": "Cookies Policy"
+    },
+    "copyright": "© 2026 MOTD. All Rights Reserved."
+  }
+}
